@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.offcialm-devs.com"><img src="../images/mdevs-bg.jpg" alt="Official MDevs" width="200"></a>
+  <a href="http://www.offcialm-devs.com"><img src="https://raw.githubusercontent.com/OfficialM-devs/.github/main/images/mdevs-bg.jpg" alt="Official MDevs" width="200"></a>
   <br>
   Official MDevs
   <br>

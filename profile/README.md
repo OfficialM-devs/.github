@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-  <a href="http://www.offcialm-devs.com"><img src="https://raw.githubusercontent.com/OfficialM-devs/.github/main/images/mdevs-bg.jpg" alt="Official MDevs" width="200"></a>
-  <br>
+  <a href="http://www.offcialm-devs.com"><img src="https://raw.githubusercontent.com/OfficialM-devs/.github/main/images/mdevs-bg.jpg" alt="Official MDevs" ></a>
+  <!-- <br>
   Official MDevs
-  <br>
+  <br> -->
 </h1>
 
 <h4 align="center">We here at the Official MDevs team Believe that we have the right skillset to make your business stand out in this modern world. That Combined with our passion and hard work is what we hope will inspire you to Come work with Us.</h4>
